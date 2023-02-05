@@ -1,0 +1,13 @@
+{
+  "name": "coding-with-mo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:moelzanaty3/coding-in-the-weekend.git",
+  "author": "mohammedelzanaty129@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^17.4.2",
+    "@commitlint/config-conventional": "^17.4.2",
+    "husky": "^8.0.3"
+  }
+}
